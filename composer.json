@@ -27,7 +27,7 @@
         "ext-json": "*",
         "ext-openssl": "*",
         "lib-curl": "*",
-        "mpyw/co": "^1.5"
+        "kawakami-o3/co": "^1.5"
     },
     "require-dev": {
         "php": ">=7.0.0",
