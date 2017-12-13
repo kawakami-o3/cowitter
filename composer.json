@@ -1,5 +1,5 @@
 {
-    "name": "mpyw/cowitter",
+    "name": "kawakami-o3/cowitter",
     "type": "library",
     "description" : "Asynchronous Twitter client compatible with mpyw/co Generator-based flows.",
     "license": "MIT",
@@ -17,8 +17,8 @@
     ],
     "authors": [
         {
-            "name": "mpyw",
-            "email": "ryosuke_i_628@yahoo.co.jp"
+            "name": "kawakami",
+            "email": "kawakami.ozone@gmail.com"
         }
     ],
     "require": {
@@ -26,7 +26,7 @@
         "ext-hash": "*",
         "ext-json": "*",
         "ext-openssl": "*",
-        "lib-curl": ">=7.19.0",
+        "lib-curl": "*",
         "mpyw/co": "^1.5"
     },
     "require-dev": {
