@@ -1,3 +1,7 @@
+__NOTE__
+
+__This project is forked for my own use. The dependency is less restrictive than the original project's one, and it maybe cause a problem which I will NOT fix.__
+
 # cowitter [![Build Status](https://scrutinizer-ci.com/g/mpyw/cowitter/badges/build.png?b=master)](https://scrutinizer-ci.com/g/mpyw/cowitter/build-status/master) [![Code Coverage](https://scrutinizer-ci.com/g/mpyw/cowitter/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mpyw/cowitter/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mpyw/cowitter/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mpyw/cowitter/?branch=master)
 
 Asynchronous Twitter client compatible with mpyw/co Generator-based flows.
